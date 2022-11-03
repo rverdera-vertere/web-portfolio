@@ -1,0 +1,39 @@
+/*
+	https://teejaecalinao.github.io/charles-sample/
+	Colors
+	https://mycolor.space/
+	https://colorhunt.co/
+	https://color.adobe.com/create/color-wheel
+
+	Images
+	https://pixabay.com/
+	https://unsplash.com/
+	https://www.pexels.com/
+
+	Icons and Illustrations
+	https://www.freepik.com/
+	https://shape.so/
+	https://storyset.com/
+	https://coolors.co/
+	https://michalsnik.github.io/aos/
+
+*/
+
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+#home{	
+	height: 100vh;
+}
+
+#carouselExampleCaptions img {
+	width: auto;
+  	height: 400px;
+  	max-height: 400px;
+}
+
+.caption1 {
+	color: black;
+	
+}
